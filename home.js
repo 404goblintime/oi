@@ -1,2 +1,2 @@
 function dog(){
-window.location.href = 'dog.html';}
+window.location.href = 'index.html';}
